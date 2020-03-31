@@ -2,3 +2,6 @@ Amarelo
 Azul
 Preto
 Rosa
+Marron
+Cinza
+Vermelho
