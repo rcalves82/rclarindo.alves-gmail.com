@@ -6,3 +6,4 @@ Marron
 Cinza
 Vermelho
 Azul Marinho
+Lilas
